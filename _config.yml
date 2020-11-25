@@ -1,0 +1,12 @@
+title: Preliminary Mathematics II
+email: palmergi1@cardiff.ac.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  A data literacy course covering sets, probability, data, and statistical inference.
+baseurl: "/prelim2" # the subpath of your site, e.g. /blog
+url: "http://www.geraintianpalmer.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+syntax_highlighter: rouge
+future: true
