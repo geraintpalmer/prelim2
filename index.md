@@ -41,8 +41,8 @@ Assessment deadlines are also given, and discussing your progress on the assessm
 Learning Materials
 ==================
 
-Course notes are written in pdf form, and [availble here](https://www.google.com/).
-The main form of delivery is a series of asynchronous videos for your to watch and rewatch in your own time. The video series is split into six chapters, and you are expected to watch all videos before the relevant tutorial for that chapter.
+Course notes are written in pdf form, and [available here](https://www.google.com/).
+The main form of delivery is a series of asynchronous videos for your to watch and re-watch in your own time. The video series is split into six chapters, and you are expected to watch all videos before the relevant tutorial for that chapter.
 
 A - Introduction
 ----------------
@@ -118,13 +118,13 @@ D - Data ([Tutorial Sheet 3](https://www.google.com/))
    <p style="font-size: medium"><i>Range, quartiles, IQR, variance, standard deviation.</i></p>
 
  + [**D4 - The Use and Misuse of Statistics**](https://www.google.com/)\\
-   <p style="font-size: medium"><i>Misinterpreing statistics, ambiguous statistics, lying with statistics, the inspection paradox.</i></p>
+   <p style="font-size: medium"><i>Misinterpreting statistics, ambiguous statistics, lying with statistics, the inspection paradox.</i></p>
 
  + [**D5 - Data Visualisation (2 Variables)**](https://www.google.com/)\\
    <p style="font-size: medium"><i>Why we visualise, scatter, line and bar charts.</i></p>
 
  + [**D6 - Correlation vs Causation**](https://www.google.com/)\\
-   <p style="font-size: medium"><i>Stength of correlation, types of correlation, misinterpreting correlation.</i></p>
+   <p style="font-size: medium"><i>Strength of correlation, types of correlation, misinterpreting correlation.</i></p>
 
  + [**D7 - Data Visualisation (1 Variable)**](https://www.google.com/)\\
    <p style="font-size: medium"><i>Visualising spread, histograms, boxplots, skewness, kurtosis.</i></p>
@@ -168,7 +168,7 @@ F - Statistical Inference ([Tutorial Sheet 5](https://www.google.com/))
    <p style="font-size: medium"><i>Comparing a sample mean to a value.</i></p>
 
  + [**F4 - Paired Sample t-Test**](https://www.google.com/)\\
-   <p style="font-size: medium"><i>Comparing the mean difference of two paried variables.</i></p>
+   <p style="font-size: medium"><i>Comparing the mean difference of two paired variables.</i></p>
 
  + [**F5 - Two Sample t-Test**](https://www.google.com/)\\
    <p style="font-size: medium"><i>Comparing means of independent variables.</i></p>
@@ -189,15 +189,15 @@ Assessment
 ==========
 
 + Individual assessment (50%)
-  + **Part 1:** Write a one page report on an interesting probabiltiy problem of your choice (ideas below), state and solve the problem, then either extend the problem or find/create data to demonstrate the problem.
+  + **Part 1:** Write a one page report on an interesting probability problem of your choice (ideas below), state and solve the problem, then either extend the problem or find/create data to demonstrate the problem.
   + **Part 2:** Complete and submit the tutorial-style questions, which will be handed out in week 6.
-+ Group assessment (50%)
++ Group project (50%)
   + Write a 5 page data analysis report on the [hospital discharge data set](https://www.google.com/).
   + Submit an [individual reflection form](https://www.google.com/).
 
 *The page limits are strict. If you submit a longer piece of work, I will not read past the page limit, even if that includes references.*
 
-The individual one page report, and the five page group assessment, will be marked using the same marking criteria:
+The individual one page report, and the five page group project, will be marked using the same marking criteria:
 
 + ***Comprehension (40%)***\\
   e.g.
@@ -230,6 +230,6 @@ The individual one page report, and the five page group assessment, will be mark
   </ul>
 
 
-Individual report ideas: the birthday problem, invent a casino game and describe the probabilities of winning or losing, coupon collector's problem, Bertrand's box paradox, the Mabinogion sheep problem, the airplane boarding problem...
+Individual report ideas: the birthday problem, invent a casino game and describe the probabilities of winning or losing, coupon collector's problem, Bertrand's box paradox, the Mabinogion sheep problem, the aeroplane boarding problem...
 
 ---
