@@ -56,7 +56,7 @@ A - Introduction
  + [**A3 - Foundations**](https://www.google.com/)\\
    <p style="font-size: medium"><i>Recapping fractions, algebra, and summation notation.</i></p>
 
-B - Sets ([Tutorial Sheet 1](https://www.google.com/))
+B - Sets ([Tutorial Sheet 1](/prelim2/t1/))
 ------------------------------------------------------
 
  + [**B1 - Sets & Subsets**](https://www.google.com/)\\
@@ -77,7 +77,7 @@ B - Sets ([Tutorial Sheet 1](https://www.google.com/))
  + [**B6 - Venn Diagrams**](https://www.google.com/)\\
    <p style="font-size: medium"><i>Visualising sets with Venn and Euler diagrams.</i></p>
 
-C - Probability ([Tutorial Sheet 2](https://www.google.com/))
+C - Probability ([Tutorial Sheet 2](/prelim2/t2/))
 -------------------------------------------------------------
 
  + [**C1 - Likelihood**](https://www.google.com/)\\
@@ -105,7 +105,7 @@ C - Probability ([Tutorial Sheet 2](https://www.google.com/))
    <p style="font-size: medium"><i>Mr Smith's children, the liar's problem, the Monte Hall problem.</i></p>
 
 
-D - Data ([Tutorial Sheet 3](https://www.google.com/))
+D - Data ([Tutorial Sheet 3](/prelim2/t3/))
 ------------------------------------------------------
 
  + [**D1 - Data Types**](https://www.google.com/)\\
@@ -136,7 +136,7 @@ D - Data ([Tutorial Sheet 3](https://www.google.com/))
    <p style="font-size: medium"><i>When groups have different trends to the whole.</i></p>
 
 
-E - Probability Distributions ([Tutorial Sheet 4](https://www.google.com/))
+E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/))
 ---------------------------------------------------------------------------
 
  + [**E1 - Discrete Probability Distributions**](https://www.google.com/)\\
@@ -155,7 +155,7 @@ E - Probability Distributions ([Tutorial Sheet 4](https://www.google.com/))
    <p style="font-size: medium"><i>Reading normal tables, calculating probabilities of Normal variables.</i></p>
 
 
-F - Statistical Inference ([Tutorial Sheet 5](https://www.google.com/))
+F - Statistical Inference ([Tutorial Sheet 5](/prelim2/t5/))
 -----------------------------------------------------------------------
 
  + [**F1 - Sampling**](https://www.google.com/)\\
