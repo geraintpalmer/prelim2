@@ -26,11 +26,11 @@ Assessment deadlines are also given, and discussing your progress on the assessm
     + Question and answer session on the week's topic.
   + Week 4 will also be an opportunity for us to discuss your individual report ideas.
 + ***Critiquing data analysis reports***
-  + Before this session you are expected to have read and made notes on the four following data analysis reports:
-    + [What's in a Name?](https://www.google.com/)
-    + [Support when you're feeling blue](https://www.google.com/)
-    + [The Great Prosperity / The Great Regression](https://www.google.com/)
-    + [Are dogs appreciated fairly on @dog_rates](https://www.google.com/)
+  + Before this session you are expected to have read and made notes on the four following data analysis reports (there are pdfs of these on Learning Central):
+    + [What's in a Name?](https://research.fb.com/blog/2014/09/whats-in-a-name/)
+    + [Support when you're feeling blue](https://research.fb.com/blog/2016/02/support-when-you-re-feeling-blue/)
+    + [The Great Prosperity / The Great Regression](https://www.reddit.com/r/dataisbeautiful/comments/arll4q/oc_great_prosperity_vs_great_regression_usa/)
+    + [Are dogs appreciated fairly on @dog_rates](https://vknight.org/unpeudemath/math/2018/03/28/rating-dog-rates.html)
 + ***Group Interviews***
   + Sessions are split into timetabled 15 minute slots where I will chat with each coursework group in turn.
   + Each week you will be given prompts to submit to submit different aspects of your work so far.
@@ -41,145 +41,145 @@ Assessment deadlines are also given, and discussing your progress on the assessm
 Learning Materials
 ==================
 
-Course notes are written in pdf form, and [available here](https://www.google.com/).
 The main form of delivery is a series of asynchronous videos for your to watch and re-watch in your own time. The video series is split into six chapters, and you are expected to watch all videos before the relevant tutorial for that chapter.
+Here's the [full playlist](https://www.youtube.com/playlist?list=PLSkPgScy-DkG3CF2tmCNg_4m8zhaa3PDO), and the videos split into relevant chapters below:
 
 A - Introduction
 ----------------
 
- + [**A1 - Me and the Course**](https://www.google.com/)\\
+ + [**A1 - Me & the Course**](https://youtu.be/n6A97ku7uJg)\\
    <p style="font-size: medium"><i>Who am I, the course philosophy and structure.</i></p>
 
- + [**A2 - Asking Questions**](https://www.google.com/)\\
+ + [**A2 - Asking Questions**](https://youtu.be/ouGMSrCFQlg)\\
    <p style="font-size: medium"><i>Seeing data all around us, introduction to critiquing analyses.</i></p>
 
- + [**A3 - Foundations**](https://www.google.com/)\\
+ + [**A3 - Foundations & Recap**](https://youtu.be/IFGlR3Sg9BM)\\
    <p style="font-size: medium"><i>Recapping fractions, algebra, and summation notation.</i></p>
 
 B - Sets ([Tutorial Sheet 1](/prelim2/t1/))
 ------------------------------------------------------
 
- + [**B1 - Sets & Subsets**](https://www.google.com/)\\
+ + [**B1 - Sets & Subsets**](https://youtu.be/giS4KuuW7Bc)\\
    <p style="font-size: medium"><i>Initial definitions and examples.</i></p>
 
- + [**B2 - Power Sets**](https://www.google.com/)\\
+ + [**B2 - Power Sets**](https://youtu.be/3ZhND4XuUoc)\\
    <p style="font-size: medium"><i>Constructing sets of subsets.</i></p>
 
- + [**B3 - Thinking Deeper**](https://www.google.com/)\\
+ + [**B3 - Thinking Deeper**](https://youtu.be/0AZmYEBOeR8)\\
    <p style="font-size: medium"><i>Historical context, Cantor's paradox, Russell's paradox.</i></p>
 
- + [**B4 - Set Operations**](https://www.google.com/)\\
+ + [**B4 - Set Operations**](https://youtu.be/YKqPESZS6Kw)\\
    <p style="font-size: medium"><i>Union, intersection, complement, set difference.</i></p>
 
- + [**B5 - Example**](https://www.google.com/)\\
+ + [**B5 - Example**](https://youtu.be/lKRfM90Ryf0)\\
    <p style="font-size: medium"><i>Solving problems with set theory.</i></p>
 
- + [**B6 - Venn Diagrams**](https://www.google.com/)\\
+ + [**B6 - Venn Diagrams**](https://youtu.be/mG-G2QPF4Qg)\\
    <p style="font-size: medium"><i>Visualising sets with Venn and Euler diagrams.</i></p>
 
 C - Probability ([Tutorial Sheet 2](/prelim2/t2/))
 -------------------------------------------------------------
 
- + [**C1 - Likelihood**](https://www.google.com/)\\
+ + [**C1 - Likelihood**](https://youtu.be/cuCqyGspC0o)\\
    <p style="font-size: medium"><i>Getting a feeling of chance, measures of chance.</i></p>
 
- + [**C2 - The Law of Large Numbers**](https://www.google.com/)\\
+ + [**C2 - The Law of Large Numbers**](https://youtu.be/Br9ujh3JSY0)\\
    <p style="font-size: medium"><i>Running trials, demonstration of the law of large numbers.</i></p>
 
- + [**C3 - Sequences of Events**](https://www.google.com/)\\
+ + [**C3 - Sequences of Events**](https://youtu.be/Re-LaanRI3A)\\
    <p style="font-size: medium"><i>Tree diagrams, probability of this then that.</i></p>
 
- + [**C4 - Combining Events**](https://www.google.com/)\\
+ + [**C4 - Combining Events**](https://youtu.be/g1rI4cJkvrY)\\
    <p style="font-size: medium"><i>Probabilities of subsets, probabilities of set operations.</i></p>
 
- + [**C5 - Independence**](https://www.google.com/)\\
+ + [**C5 - Independence**](https://youtu.be/aOczFrh06kA)\\
    <p style="font-size: medium"><i>Definition of independence, testing for independence.</i></p>
 
- + [**C6 - Conditional Probability**](https://www.google.com/)\\
+ + [**C6 - Conditional Probability**](https://youtu.be/1tOBcfAXAi0)\\
    <p style="font-size: medium"><i>When probabilities change as other events occur.</i></p>
 
- + [**C7 - Bayes' Theorem**](https://www.google.com/)\\
+ + [**C7 - Bayes' Theorem**](https://youtu.be/uio-XvHIIKo)\\
    <p style="font-size: medium"><i>Flipping the condition, using Bayes' theorem.</i></p>
 
- + [**C8 - Some Notorious Problems**](https://www.google.com/)\\
+ + [**C8 - Some Notorious Problems**](https://youtu.be/qg_ILUk-_WU)\\
    <p style="font-size: medium"><i>Mr Smith's children, the liar's problem, the Monte Hall problem.</i></p>
 
 
 D - Data ([Tutorial Sheet 3](/prelim2/t3/))
 ------------------------------------------------------
 
- + [**D1 - Data Types**](https://www.google.com/)\\
+ + [**D1 - Data Types**](https://youtu.be/rYihnx7PhO0)\\
    <p style="font-size: medium"><i>Nominal, ordinal, interval, ratio.</i></p>
 
- + [**D2 - Measures of Centrality**](https://www.google.com/)\\
+ + [**D2 - Measures of Centrality**](https://youtu.be/-5hex_F3LeY)\\
    <p style="font-size: medium"><i>Mean, median, mode.</i></p>
 
- + [**D3 - Measures of Spread**](https://www.google.com/)\\
+ + [**D3 - Measures of Spread**](https://youtu.be/wm-MdRQx-3I)\\
    <p style="font-size: medium"><i>Range, quartiles, IQR, variance, standard deviation.</i></p>
 
- + [**D4 - The Use and Misuse of Statistics**](https://www.google.com/)\\
+ + [**D4 - The Use and Misuse of Statistics**](https://youtu.be/edhs8f4abNM)\\
    <p style="font-size: medium"><i>Misinterpreting statistics, ambiguous statistics, lying with statistics, the inspection paradox.</i></p>
 
- + [**D5 - Data Visualisation (2 Variables)**](https://www.google.com/)\\
+ + [**D5 - Data Visualisation (2 Variables)**](https://youtu.be/ZEdez-S9o6Y)\\
    <p style="font-size: medium"><i>Why we visualise, scatter, line and bar charts.</i></p>
 
- + [**D6 - Correlation vs Causation**](https://www.google.com/)\\
+ + [**D6 - Correlation vs Causation**](https://youtu.be/uwHgjL_UO6I)\\
    <p style="font-size: medium"><i>Strength of correlation, types of correlation, misinterpreting correlation.</i></p>
 
- + [**D7 - Data Visualisation (1 Variable)**](https://www.google.com/)\\
+ + [**D7 - Data Visualisation (1 Variable)**](https://youtu.be/p8Z9qX1WVZo)\\
    <p style="font-size: medium"><i>Visualising spread, histograms, boxplots, skewness, kurtosis.</i></p>
 
- + [**D8 - More Data Visualisation**](https://www.google.com/)\\
+ + [**D8 - More Data Visualisation**](https://youtu.be/uQHlPyWnNu4)\\
    <p style="font-size: medium"><i>Visualising more then two variables, bad data visualisations.</i></p>
 
- + [**D9 - Simpson's Paradox**](https://www.google.com/)\\
+ + [**D9 - Simpson's Paradox**](https://youtu.be/jrQ7diJx9l4)\\
    <p style="font-size: medium"><i>When groups have different trends to the whole.</i></p>
 
 
 E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/))
 ---------------------------------------------------------------------------
 
- + [**E1 - Discrete Probability Distributions**](https://www.google.com/)\\
+ + [**E1 - Discrete Probability Distributions**](https://youtu.be/FYLUCIVJW_o)\\
    <p style="font-size: medium"><i>Probability mass functions, expected values, variance.</i></p>
 
- + [**E2 - Worked Examples**](https://www.google.com/)\\
+ + [**E2 - Worked Examples**](https://youtu.be/X3aTLxiVmYk)\\
    <p style="font-size: medium"><i>Calculating pmfs.</i></p>
 
- + [**E3 - Continuous Distributions**](https://www.google.com/)\\
+ + [**E3 - Continuous Distributions**](https://youtu.be/Pjbc2MBsmIQ)\\
    <p style="font-size: medium"><i>Probability density functions, cumulative distribution functions.</i></p>
 
- + [**E4 - The Normal Distribution**](https://www.google.com/)\\
+ + [**E4 - The Normal Distribution**](https://youtu.be/KVEov4X181s)\\
    <p style="font-size: medium"><i>The bell curve, the S curve, the central limit theorem.</i></p>
 
- + [**E5 - The Standard Normal Distribution**](https://www.google.com/)\\
+ + [**E5 - The Standard Normal**](https://youtu.be/2y04JCfrtF0)\\
    <p style="font-size: medium"><i>Reading normal tables, calculating probabilities of Normal variables.</i></p>
 
 
 F - Statistical Inference ([Tutorial Sheet 5](/prelim2/t5/))
 -----------------------------------------------------------------------
 
- + [**F1 - Sampling**](https://www.google.com/)\\
+ + [**F1 - Sampling**](https://youtu.be/P76ubkoaRHA)\\
    <p style="font-size: medium"><i>Why we sample, how we sample, sampling bias, survivorship bias.</i></p>
 
- + [**F2 - Hypothesis Testing**](https://www.google.com/)\\
+ + [**F2 - Hypothesis Testing**](https://youtu.be/Nh5mSo4vZgg)\\
    <p style="font-size: medium"><i>Infering population parameters from sample statistics, a feel for how it works.</i></p>
 
- + [**F3 - One Sample t-Test**](https://www.google.com/)\\
+ + [**F3 - One Sample t-Test**](https://youtu.be/oXXvocQrgXU)\\
    <p style="font-size: medium"><i>Comparing a sample mean to a value.</i></p>
 
- + [**F4 - Paired Sample t-Test**](https://www.google.com/)\\
+ + [**F4 - Paired Sample t-Test**](https://youtu.be/3J63mMiT2B4)\\
    <p style="font-size: medium"><i>Comparing the mean difference of two paired variables.</i></p>
 
- + [**F5 - Two Sample t-Test**](https://www.google.com/)\\
+ + [**F5 - Two Sample t-Test**](https://youtu.be/HoNRc9d9z2Q)\\
    <p style="font-size: medium"><i>Comparing means of independent variables.</i></p>
 
- + [**F6 - Nonparametric Tests**](https://www.google.com/)\\
+ + [**F6 - Nonparametric Tests**](https://youtu.be/gkN6apW3hLc)\\
    <p style="font-size: medium"><i>Possible solutions when your data doesn't meet the assumptions.</i></p>
 
- + [**F7 - Chi-Squared Test of Independence**](https://www.google.com/)\\
+ + [**F7 - Chi-Squared Test of Independence**](https://youtu.be/M0mwR3Ih0cw)\\
    <p style="font-size: medium"><i>Are two nominal or ordinal variables independent?</i></p>
 
- + [**F8 - Any Other Test?**](https://www.google.com/)\\
+ + [**F8 - Any Other Test?**](https://youtu.be/DMo3zu3BRNs)\\
    <p style="font-size: medium"><i>Some other common things we can test for, p-hacking and bad practice.</i></p>
 
 
@@ -192,8 +192,8 @@ Assessment
   + **Part 1:** Write a one page report on an interesting probability problem of your choice (ideas below), state and solve the problem, then either extend the problem or find/create data to demonstrate the problem.
   + **Part 2:** Complete and submit the tutorial-style questions, which will be handed out in week 6.
 + Group project (50%)
-  + Write a 5 page data analysis report on the [hospital discharge data set](https://www.google.com/).
-  + Submit an [individual reflection form](https://www.google.com/).
+  + Write a 5 page data analysis report on the [hospital discharge data set](/prelim2/coursework/hospital-discharge-data.xlsx).
+  + Submit an [individual reflection form](/prelim2/coursework/individual-reflection-form.pdf).
 
 *The page limits are strict. If you submit a longer piece of work, I will not read past the page limit, even if that includes references.*
 
