@@ -190,7 +190,7 @@ Assessment
 
 + Individual assessment (50%, _hand-in date **22/03/2021**_)
   + **Part 1:** Write a one page report on an interesting probability problem of your choice (ideas below), state and solve the problem, then either extend the problem or find/create data to demonstrate the problem.
-  + **Part 2:** Complete and submit the tutorial-style questions, which will be handed out in week 6.
+  + **Part 2:** Complete and submit [the tutorial-style questions](/assessment/), which will be handed out in week 6.
 + Group project (50%, _hand-in date **13/05/2021**_)
   + Write a 5 page data analysis report on the [hospital discharge data set](/prelim2/coursework/hospital-discharge-data.xlsx).
   + Submit an [individual reflection form](/prelim2/coursework/individual-reflection-form.pdf).
