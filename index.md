@@ -31,6 +31,7 @@ Assessment deadlines are also given, and discussing your progress on the assessm
     + [Support when you're feeling blue](https://research.fb.com/blog/2016/02/support-when-you-re-feeling-blue/)
     + [The Great Prosperity / The Great Regression](https://www.reddit.com/r/dataisbeautiful/comments/arll4q/oc_great_prosperity_vs_great_regression_usa/)
     + [Are dogs appreciated fairly on @dog_rates](https://vknight.org/unpeudemath/math/2018/03/28/rating-dog-rates.html)
+  + Here is the [table](/prelim2/assets/CritiqueTable.pdf) we constructed together in the session.
 + ***Group Interviews***
   + Sessions are split into timetabled 15 minute slots where I will chat with each coursework group in turn.
   + Each week you will be given prompts to submit to submit different aspects of your work so far.
