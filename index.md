@@ -234,3 +234,9 @@ The individual one page report, and the five page group project, will be marked 
 Individual report ideas: the birthday problem, invent a casino game and describe the probabilities of winning or losing, coupon collector's problem, Bertrand's box paradox, the Mabinogion sheep problem, the aeroplane boarding problem...
 
 ---
+
+Reassessment
+============
+
++ If you need to resit the individual coursework: Complete and submit the following [tutorial-style questions](/prelim2/reassessment/).
++ If you need to resit the group coursework: Write a 3 page data analysis report on the [housing market data set](/prelim2/coursework/housing-data.xlsx); *this resit is to be completed individually*. The above marking criteria applies.
