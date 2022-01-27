@@ -10,8 +10,10 @@ MA0004 - Preliminary Mathematics II
 Course Schedule
 ===============
 
-*All* synchronous sessions are interactive, you are expected to participate. Consider these as opportunities to discuss the content, your understanding, your tutorials, your coursework, or any other relevant or interesting topics that you discover.
-In order to facilitate this, we will following this structure:
++ **Mondays 9am-10am**: Office hours (virtual + in-person). Scheduled time for you to watch the pre-recorded videos, drop into the office hours and ask any questions about the content or the course.
++ **Tuesdays 9am-11am**: Tutorials (in-person). *All* tutorial workshops are interactive, you are expected to participate.
+
+The following structure is used:
 
 <img src="/prelim2/assets/schedule.png" width="800">{: .center-image }
 
@@ -31,7 +33,6 @@ Assessment deadlines are also given, and discussing your progress on the assessm
     + [Support when you're feeling blue](https://research.fb.com/blog/2016/02/support-when-you-re-feeling-blue/)
     + [The Great Prosperity / The Great Regression](https://www.reddit.com/r/dataisbeautiful/comments/arll4q/oc_great_prosperity_vs_great_regression_usa/)
     + [Are dogs appreciated fairly on @dog_rates](https://vknight.org/unpeudemath/math/2018/03/28/rating-dog-rates.html)
-  + Here is the [table](/prelim2/assets/CritiqueTable.pdf) we constructed together in the session.
 + ***Group Interviews***
   + Sessions are split into timetabled 15 minute slots where I will chat with each coursework group in turn.
   + Each week you will be given prompts to submit to submit different aspects of your work so far.
@@ -57,7 +58,7 @@ A - Introduction
  + [**A3 - Foundations & Recap**](https://youtu.be/IFGlR3Sg9BM)\\
    <p style="font-size: medium"><i>Recapping fractions, algebra, and summation notation.</i></p>
 
-B - Sets ([Tutorial Sheet 1](/prelim2/t1/), [Solutions](/prelim2/s1/), [Class Exercises](/assets/W1.pdf))
+B - Sets ([Tutorial Sheet 1](/prelim2/t1/))
 ------------------------------------------------------
 
  + [**B1 - Sets & Subsets**](https://youtu.be/giS4KuuW7Bc)\\
@@ -78,7 +79,7 @@ B - Sets ([Tutorial Sheet 1](/prelim2/t1/), [Solutions](/prelim2/s1/), [Class Ex
  + [**B6 - Venn Diagrams**](https://youtu.be/mG-G2QPF4Qg)\\
    <p style="font-size: medium"><i>Visualising sets with Venn and Euler diagrams.</i></p>
 
-C - Probability ([Tutorial Sheet 2](/prelim2/t2/), [Solutions](/prelim2/s2/), [Class Exercises](/assets/W2.pdf))
+C - Probability ([Tutorial Sheet 2](/prelim2/t2/))
 -------------------------------------------------------------
 
  + [**C1 - Likelihood**](https://youtu.be/cuCqyGspC0o)\\
@@ -106,7 +107,7 @@ C - Probability ([Tutorial Sheet 2](/prelim2/t2/), [Solutions](/prelim2/s2/), [C
    <p style="font-size: medium"><i>Mr Smith's children, the liar's problem, the Monte Hall problem.</i></p>
 
 
-D - Data ([Tutorial Sheet 3](/prelim2/t3/), [Solutions](/prelim2/s3/), [Class Exercises](/assets/W3.pdf))
+D - Data ([Tutorial Sheet 3](/prelim2/t3/))
 ------------------------------------------------------
 
  + [**D1 - Data Types**](https://youtu.be/rYihnx7PhO0)\\
@@ -137,7 +138,7 @@ D - Data ([Tutorial Sheet 3](/prelim2/t3/), [Solutions](/prelim2/s3/), [Class Ex
    <p style="font-size: medium"><i>When groups have different trends to the whole.</i></p>
 
 
-E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/), [Solutions](/prelim2/s4/))
+E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/))
 ---------------------------------------------------------------------------
 
  + [**E1 - Discrete Probability Distributions**](https://youtu.be/FYLUCIVJW_o)\\
@@ -189,11 +190,15 @@ F - Statistical Inference ([Tutorial Sheet 5](/prelim2/t5/))
 Assessment
 ==========
 
-+ Individual assessment (50%, _hand-in date **22/03/2021**_)
++ Individual assessment (50%, _hand-in date **21/03/2022**_)
   + **Part 1:** Write a one page report on an interesting probability problem of your choice (ideas below), state and solve the problem, then either extend the problem or find/create data to demonstrate the problem.
-  + **Part 2:** Complete and submit [the tutorial-style questions](/prelim2/assessment/), which will be handed out in week 6.
-+ Group project (50%, _hand-in date **13/05/2021**_)
-  + Write a 5 page data analysis report on the [hospital discharge data set](/prelim2/coursework/hospital-discharge-data.xlsx).
+  + **Part 2:** Complete and submit the tutorial-style questions, which will be handed out in week 6.
+  <!-- + **Part 2:** Complete and submit [the tutorial-style questions](/prelim2/assessment/), which will be handed out in week 6. -->
++ Group project (50%, _hand-in date **12/05/2022**_)
+  + Write a 5 page data analysis report on either.
+    + [The voting intentions data set](/prelim2/coursework/voting-data.xlsx),
+    + [The hospital discharge data set](/prelim2/coursework/hospital-discharge-data.xlsx),
+    + A data set of your choice (must be approved by the module lead).
   + Submit an [individual reflection form](/prelim2/coursework/individual-reflection-form.pdf).
 
 *The page limits are strict. If you submit a longer piece of work, I will not read past the page limit, even if that includes references.*
@@ -231,12 +236,13 @@ The individual one page report, and the five page group project, will be marked 
   </ul>
 
 
-Individual report ideas: the birthday problem, invent a casino game and describe the probabilities of winning or losing, coupon collector's problem, Bertrand's box paradox, the Mabinogion sheep problem, the aeroplane boarding problem...
+Individual report ideas: the birthday problem, invent a casino game and describe the probabilities of winning or losing, coupon collector's problem, Bertrand's box paradox, the aeroplane boarding problem...
 
----
+<!-- ---
 
 Reassessment
 ============
 
 + If you need to resit the individual coursework: Complete and submit the following [tutorial-style questions](/prelim2/reassessment/).
 + If you need to resit the group coursework: Write a 3 page data analysis report on the [housing market data set](/prelim2/coursework/housing-data.xlsx); *this resit is to be completed individually*. The above marking criteria applies.
+ -->
