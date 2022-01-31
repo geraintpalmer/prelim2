@@ -10,7 +10,7 @@ MA0004 - Preliminary Mathematics II
 Course Schedule
 ===============
 
-+ **Mondays 9am-10am**: Office hours (virtual + in-person). Scheduled time for you to watch the pre-recorded videos, drop into the office hours and ask any questions about the content or the course.
++ **Mondays 9am-10am**: Office hours (virtual). Scheduled time for you to watch the pre-recorded videos, drop into the office hours and ask any questions about the content or the course.
 + **Tuesdays 9am-11am**: Tutorials (in-person). *All* tutorial workshops are interactive, you are expected to participate.
 
 The following structure is used:
