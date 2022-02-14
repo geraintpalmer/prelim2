@@ -58,7 +58,7 @@ A - Introduction
  + [**A3 - Foundations & Recap**](https://youtu.be/IFGlR3Sg9BM)\\
    <p style="font-size: medium"><i>Recapping fractions, algebra, and summation notation.</i></p>
 
-B - Sets ([Tutorial Sheet 1](/prelim2/t1/))
+B - Sets ([Tutorial Sheet 1](/prelim2/t1/), [Solutions](/prelim2/s1/), [Class exercises](/prelim2/assets/W1.pdf))
 ------------------------------------------------------
 
  + [**B1 - Sets & Subsets**](https://youtu.be/giS4KuuW7Bc)\\
