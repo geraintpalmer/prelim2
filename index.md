@@ -79,7 +79,7 @@ B - Sets ([Tutorial Sheet 1](/prelim2/t1/), [Solutions](/prelim2/s1/), [Class ex
  + [**B6 - Venn Diagrams**](https://youtu.be/mG-G2QPF4Qg)\\
    <p style="font-size: medium"><i>Visualising sets with Venn and Euler diagrams.</i></p>
 
-C - Probability ([Tutorial Sheet 2](/prelim2/t2/))
+C - Probability ([Tutorial Sheet 2](/prelim2/t2/), [Solutions](/prelim2/s2/), [Class exercises](/prelim2/assets/W2.pdf))
 -------------------------------------------------------------
 
  + [**C1 - Likelihood**](https://youtu.be/cuCqyGspC0o)\\
