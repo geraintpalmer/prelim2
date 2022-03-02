@@ -107,7 +107,7 @@ C - Probability ([Tutorial Sheet 2](/prelim2/t2/), [Solutions](/prelim2/s2/), [C
    <p style="font-size: medium"><i>Mr Smith's children, the liar's problem, the Monte Hall problem.</i></p>
 
 
-D - Data ([Tutorial Sheet 3](/prelim2/t3/))
+D - Data ([Tutorial Sheet 3](/prelim2/t3/), [Solutions](/prelim2/s3/), [Class exercises](/prelim2/assets/W3.pdf))
 ------------------------------------------------------
 
  + [**D1 - Data Types**](https://youtu.be/rYihnx7PhO0)\\
