@@ -192,8 +192,8 @@ Assessment
 
 + Individual assessment (50%, _hand-in date **21/03/2022**_)
   + **Part 1:** Write a one page report on an interesting probability problem of your choice (ideas below), state and solve the problem, then either extend the problem or find/create data to demonstrate the problem.
-  + **Part 2:** Complete and submit the tutorial-style questions, which will be handed out in week 6.
-  <!-- + **Part 2:** Complete and submit [the tutorial-style questions](/prelim2/assessment/), which will be handed out in week 6. -->
+  <!-- + **Part 2:** Complete and submit the tutorial-style questions, which will be handed out in week 6. -->
+  + **Part 2:** Complete and submit [the tutorial-style questions](/prelim2/assessment/), which will be handed out in week 6.
 + Group project (50%, _hand-in date **12/05/2022**_)
   + Write a 5 page data analysis report on either.
     + [The voting intentions data set](/prelim2/coursework/voting-data.xlsx),

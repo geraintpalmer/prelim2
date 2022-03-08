@@ -4,6 +4,9 @@ permalink: /assessment/
 title: Individual Coursework - Part 2
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 + These questions assess your competency in understanding the concepts covered in this course.
 As you will see, every question allows for original and personalised answers, and so I would not expect two students to submit the same answers to any question.
 + Many of these questions ask you to 'give examples' of concepts learned in the course. Please ensure that the examples you give are original and different from those given in the videos, tutorial sheets, and class exercises.
@@ -13,26 +16,31 @@ As you will see, every question allows for original and personalised answers, an
 Question A (7)
 ==============
 
-You write your full name (first name and surname) on a kitchen refrigerator with letter-shaped fridge magnets. A minor earthquake hits, and three random letters fall off.
+You write your name on a kitchen refrigerator with letter-shaped fridge magnets. A minor earthquake hits, and two random letters fall off.
 
-1. What is the probability that all three are vowels?
-2. What is the probability that exactly two are consonants?
+1. What is the probability that both are vowels?
+2. What is the probability that exactly one is a consonant?
 
-With each consecutive tremor of the earthquake, either one, two or three letters fall off (each with probability $$\frac{1}{3}$$). Consider the random variable $$X$$, the number of tremors needed before every letter of your name has fallen off.
+You clear the fridge and write the word "EYE" with the fridge magnets. A series of minor tremors hits, with each tremor there is a probability $$\frac{3}{4}$$ that a single letter will fall off. Consider the random variable $$X$$, the number of tremors needed before every letter has fallen off.
 
 {:start="3"}
 3. Write down the pmf of $$X$$.
 4. Calculate $$\mathbb{E}(X)$$, the expected number of tremors needed for all the letters to fall off the fridge.
 
-Question B (4)
+Question B (1)
 ==============
 
-Give an example of each of the four types of data: nominal, ordinal, interval, and ratio data.
+Draw a Venn diagam of three sets, $$A$$, $$B$$, and $$C$$. Shade in the area representing the set $$A \cap \overline{C}$$.
 
-Question C (8)
+Question C (4)
 ==============
 
-You each have a 7 digit student number. By treating each digit as a piece of ratio data, and including the extra digit 5 (e.g. if your student number is 1016865, then you have the data set $$\{1, 0, 1, 6, 8, 6, 5, 5\}$$ with eight values), calculate its:
+Give an example of each of the four types of data: nominal, ordinal, interval, and ratio data. Explain why you think each example fits that particular data type.
+
+Question D (8)
+==============
+
+You each have a 7 digit student number. By treating each digit as a piece of ratio data, and including the extra digit 3 (e.g. if your student number is 1016865, then you have the data set $$\{1, 0, 1, 6, 8, 6, 5, 3\}$$ with eight values), calculate its:
 
 1. mode,
 2. median,
@@ -44,18 +52,18 @@ You each have a 7 digit student number. By treating each digit as a piece of rat
 
 8. Draw the boxplot of the data.
 
-Question D (4)
+Question E (4)
 ==============
 
-For each of the tests below, give an example scenario of when that test would be appropriate, and state the null and alternative hypotheses:
+For each of the tests below, give an example scenario of when that test would be appropriate, state the null and alternative hypotheses, and whether it is a one or two tailed test:
 
-1. A two-sample $$t$$-test.
+1. A paired-sample $$t$$-test.
 2. A $$\chi^2$$-test of independence.
 
-(As an example, for a _one-sample $$t$$-test_: A doctor would like to know if Cardiff University students have blood sugar levels above the guideline of 5mmol/L before meals. They measure the blood sugar of a sample of students at 11:30am on a particular day. $$H_0$$: the mean blood sugar level of Cardiff University students is equal to 5mmol/L, and $$H_1$$: the mean blood sugar level of Cardiff University students is greater than 5mmol/L.)
+(As an example, for a _one-sample $$t$$-test_: A doctor would like to know if Cardiff University students have blood sugar levels above the guideline of 5mmol/L before meals. They measure the blood sugar of a sample of students at 11:30am on a particular day. $$H_0$$: the mean blood sugar level of Cardiff University students is equal to 5mmol/L, and $$H_1$$: the mean blood sugar level of Cardiff University students is greater than 5mmol/L. This is a one-tailed test.)
 
-Question E (2)
+Question F (1)
 ==============
 
-Choose two types of sampling bias. For each, give an example of how and where this might arise.
+Choose a type of sampling bias and give an example of how and where this might arise.
 
