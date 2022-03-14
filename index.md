@@ -138,7 +138,7 @@ D - Data ([Tutorial Sheet 3](/prelim2/t3/), [Solutions](/prelim2/s3/), [Class ex
    <p style="font-size: medium"><i>When groups have different trends to the whole.</i></p>
 
 
-E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/))
+E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/), [Solutions](/prelim2/s3/))
 ---------------------------------------------------------------------------
 
  + [**E1 - Discrete Probability Distributions**](https://youtu.be/FYLUCIVJW_o)\\
