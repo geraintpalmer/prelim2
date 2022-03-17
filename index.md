@@ -157,7 +157,7 @@ E - Probability Distributions ([Tutorial Sheet 4](/prelim2/t4/), [Solutions](/pr
    <p style="font-size: medium"><i>Reading normal tables, calculating probabilities of Normal variables.</i></p>
 
 
-F - Statistical Inference ([Tutorial Sheet 5](/prelim2/t5/))
+F - Statistical Inference ([Tutorial Sheet 5](/prelim2/t5/), [Solutions](/prelim2/s5/))
 -----------------------------------------------------------------------
 
  + [**F1 - Sampling**](https://youtu.be/P76ubkoaRHA)\\
