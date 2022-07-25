@@ -5,7 +5,7 @@ title: Individual Coursework Re-assessment
 ---
 
 + The number of marks available for each question is given in parenthesis. There is a total of 50 marks.
-+ Please submit this electronicallythrough Learning Central. You may either type this up, or scan in handwritten solutions.
++ Please submit this electronically through Learning Central. You may either type this up, or scan in handwritten solutions.
 
 Question A (9)
 ==============
@@ -37,7 +37,7 @@ Question C (7)
 Question D (12)
 ===============
 
-You each have a 7 digit student number. By treating each digit as a piece of ratio data, and including the extra digit 5 (e.g. if your student number is 1016865, then you have the data set $$\{1, 0, 1, 6, 8, 6, 5, 5\}$$ with eight values), calculate its:
+You each have a 7 or 8 digit student number. Subtract each digit from 9, then, by treating each results as a piece of ratio data (e.g. if your student number is 1016865, then you have the data set $$\{8, 9, 8, 3, 1, 3, 4\}$$ with seven or eight values), calculate its:
 
 1. mode,
 2. median,
@@ -54,13 +54,13 @@ Question E (8)
 
 For each of the scenarios below, give an appropriate statistical test, stating the null and alternative hypotheses:
 
-1. A botanist would like to know if lemon trees produce more fruit when plangted in soil rich in zinc or in soil deficient of zinc. They plant 30 lemon trees in pots with zinc rich soil, and 40 lemon trees in pots with zinc deficient soil. After 2 years the number of lemons each tree produces are counted.
+1. A botanist would like to know if lemon trees produce more fruit when planted in soil rich in zinc or in soil deficient of zinc. They plant 30 lemon trees in pots with zinc rich soil, and 40 lemon trees in pots with zinc deficient soil. After 2 years the number of lemons each tree produces are counted.
 
 2. The Welsh government would like to know if there people living in urban areas are more likely to speak a foreign language than people in rural areas. They randomly choose 240 participants and ask them if they live in a rural or urban area, and if they speak a foreign language or not.
 
 3. A disreputable brewing company is claiming to sell low alcoholic beer with only 0.5% alcohol. However there are reports that the public are getting quite tipsy from drinking the beverage. An inspector, keen to discover the truth, takes a sample of 200 bottles of the beer and measures their alcohol content.
 
-4. The Tokyo Olympic committee find a new flavour of Coca-Cola is incredibly popular amongst track and field athletes. The Coca-Cola company claim that the drink "definately, in no way, makes you run faster", but the committee is susupisious. To determine weather the drink should be banned at the next Olympics in Paris, an experiment is conducted: 30 athletes record their 100m sprinting times before and drinking the beverage.
+4. The Tokyo Olympic committee find a new flavour of Coca-Cola is incredibly popular amongst track and field athletes. The Coca-Cola company claim that the drink "definitely, in no way, makes you run faster", but the committee is suspicious. To determine weather the drink should be banned at the next Olympics in Paris, an experiment is conducted: 30 athletes record their 100m sprinting times before and drinking the beverage.
 
 Question F (4)
 ==============
