@@ -5,7 +5,7 @@ title: Individual Coursework Re-assessment
 ---
 
 + The number of marks available for each question is given in parenthesis. There is a total of 50 marks.
-+ Please submit this electronically through Learning Central. You may either type this up, or scan in handwritten solutions.
++ Please submit this electronically via email. You may either type this up, or scan in handwritten solutions.
 
 Question A (9)
 ==============
