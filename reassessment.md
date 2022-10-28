@@ -4,6 +4,8 @@ permalink: /reassessment/
 title: Individual Coursework Re-assessment
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 + The number of marks available for each question is given in parenthesis. There is a total of 50 marks.
 + Please submit this electronically via email. You may either type this up, or scan in handwritten solutions.
 
